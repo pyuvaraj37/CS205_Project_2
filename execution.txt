@@ -1,0 +1,147 @@
+Nearest-Neighbor!
+Would you like to use a small or large or real dataset: (1 for small, 2 for large, 3 real data)3
+Dataset small 24, and large 43 avalible: (type the number)24
+The Data set 24 has 10 features, and 300 samples
+Starting feature search...
+The current set is []
+On the 1th level of the search tree
+--Considering adding the 1 feature
+Adding that feature gives an accuracy of 0.71
+--Considering adding the 2 feature
+Adding that feature gives an accuracy of 0.7433333333333333
+--Considering adding the 3 feature
+Adding that feature gives an accuracy of 0.84
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.74
+--Considering adding the 5 feature
+Adding that feature gives an accuracy of 0.71
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.7166666666666667
+--Considering adding the 7 feature
+Adding that feature gives an accuracy of 0.7366666666666667
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.7066666666666667
+--Considering adding the 9 feature
+Adding that feature gives an accuracy of 0.7433333333333333
+--Considering adding the 10 feature
+Adding that feature gives an accuracy of 0.7033333333333334
+On level 1 i added feature 3 to current set
+The current set is [3]
+On the 2th level of the search tree
+--Considering adding the 1 feature
+Adding that feature gives an accuracy of 0.8166666666666667
+--Considering adding the 2 feature
+Adding that feature gives an accuracy of 0.96
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.83
+--Considering adding the 5 feature
+Adding that feature gives an accuracy of 0.8233333333333334
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8033333333333333
+--Considering adding the 7 feature
+Adding that feature gives an accuracy of 0.8266666666666667
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.8133333333333334
+--Considering adding the 9 feature
+Adding that feature gives an accuracy of 0.8366666666666667
+--Considering adding the 10 feature
+Adding that feature gives an accuracy of 0.82
+On level 2 i added feature 2 to current set
+The current set is [3, 2]
+On the 3th level of the search tree
+--Considering adding the 1 feature
+Adding that feature gives an accuracy of 0.8833333333333333
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.9233333333333333
+--Considering adding the 5 feature
+Adding that feature gives an accuracy of 0.9433333333333334
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8933333333333333
+--Considering adding the 7 feature
+Adding that feature gives an accuracy of 0.9133333333333333
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.9133333333333333
+--Considering adding the 9 feature
+Adding that feature gives an accuracy of 0.9166666666666666
+--Considering adding the 10 feature
+Adding that feature gives an accuracy of 0.9166666666666666
+On level 3 i added feature 5 to current set
+The current set is [3, 2, 5]
+On the 4th level of the search tree
+--Considering adding the 1 feature
+Adding that feature gives an accuracy of 0.8866666666666667
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.8833333333333333
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8833333333333333
+--Considering adding the 7 feature
+Adding that feature gives an accuracy of 0.88
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.88
+--Considering adding the 9 feature
+Adding that feature gives an accuracy of 0.88
+--Considering adding the 10 feature
+Adding that feature gives an accuracy of 0.8966666666666666
+On level 4 i added feature 10 to current set
+The current set is [3, 2, 5, 10]
+On the 5th level of the search tree
+--Considering adding the 1 feature
+Adding that feature gives an accuracy of 0.8833333333333333
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.8666666666666667
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8733333333333333
+--Considering adding the 7 feature
+Adding that feature gives an accuracy of 0.8633333333333333
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.84
+--Considering adding the 9 feature
+Adding that feature gives an accuracy of 0.8566666666666667
+On level 5 i added feature 1 to current set
+The current set is [3, 2, 5, 10, 1]
+On the 6th level of the search tree
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.8133333333333334
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8366666666666667
+--Considering adding the 7 feature
+Adding that feature gives an accuracy of 0.8466666666666667
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.79
+--Considering adding the 9 feature
+Adding that feature gives an accuracy of 0.8233333333333334
+On level 6 i added feature 7 to current set
+The current set is [3, 2, 5, 10, 1, 7]
+On the 7th level of the search tree
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.81
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8333333333333334
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.7833333333333333
+--Considering adding the 9 feature
+Adding that feature gives an accuracy of 0.8366666666666667
+On level 7 i added feature 9 to current set
+The current set is [3, 2, 5, 10, 1, 7, 9]
+On the 8th level of the search tree
+--Considering adding the 4 feature
+Adding that feature gives an accuracy of 0.81
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8066666666666666
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.7833333333333333
+On level 8 i added feature 4 to current set
+The current set is [3, 2, 5, 10, 1, 7, 9, 4]
+On the 9th level of the search tree
+--Considering adding the 6 feature
+Adding that feature gives an accuracy of 0.8133333333333334
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.77
+On level 9 i added feature 6 to current set
+The current set is [3, 2, 5, 10, 1, 7, 9, 4, 6]
+On the 10th level of the search tree
+--Considering adding the 8 feature
+Adding that feature gives an accuracy of 0.7566666666666667
+On level 10 i added feature 8 to current set
+Best accuracy was acheived with features [3, 2] that has an accuracy of 0.96
+Search took 26.278113842010498
